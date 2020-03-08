@@ -12,5 +12,9 @@ func main() {
 		fmt.Println(key, value)
 	}
 
+	for _, value := range leeda {
+		fmt.Println(value)
+	}
+
 
 }
